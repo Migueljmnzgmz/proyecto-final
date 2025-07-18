@@ -113,4 +113,3 @@ if __name__ == "__main__":
 #https://github.com/sahin88/Python_Pygame_Maze_Solver/blob/main/maze_solver.py
 #https://www.youtube.com/watch?v=jZQ31-4_8KM
 #https://www.thehexninja.com/2018/01/practical-exercise-image-carving-ii.html
-#chatgpt
